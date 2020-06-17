@@ -1,0 +1,18 @@
+{
+  "name": "balena-hal",
+  "version": "0.1.0",
+  "description": "Balena HAL JavaScript SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wasm",
+    "hal",
+    "gpio",
+    "i2c",
+    "spi"
+  ],
+  "author": "Rahul Thakoor <rahul@balena.io>",
+  "license": "MIT OR Apache-2.0"
+}
